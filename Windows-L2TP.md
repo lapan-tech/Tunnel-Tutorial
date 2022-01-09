@@ -3,10 +3,10 @@
 #### 1. Login Ke VPN Lapan Tech
 
 #### 2. Buat L2TP VPN, Isikan Username Dan Password Kemudian Create
-![1](https://user-images.githubusercontent.com/67460437/122388422-1211c600-cf9a-11eb-9c08-c57da98347b5.PNG)
+![image](https://user-images.githubusercontent.com/67460437/148681948-931e3c9b-ff7f-46da-acf9-dca864c4e271.png)
 
 #### 3. Pastikan Sudah Berhasil Membuat L2TP Seperti Ini
-![2](https://user-images.githubusercontent.com/67460437/122388428-13db8980-cf9a-11eb-9e6c-99fd7c9f2f0c.PNG)
+![image](https://user-images.githubusercontent.com/67460437/148681986-2a292c19-e069-4442-9a2e-630c1480361e.png)
 
 #### 4. Buka Menu VPN Setting Di Search Windows
 ![3](https://user-images.githubusercontent.com/67460437/122388429-13db8980-cf9a-11eb-969e-d234a99dbe09.PNG)
@@ -23,5 +23,8 @@
 #### 8. Terakhir Pastikan Koneksi Sudah Terhubung Seperti Ini
 ![7](https://user-images.githubusercontent.com/67460437/122388441-163de380-cf9a-11eb-9353-217b171bbe9d.PNG)
 
+## Troubleshooting
+Silahkan baca artikel ini jika mengalami kendala saat terkoneksi https://mchevro.github.io/Cara-Fix-Masalah-Koneksi-Ke-VPN-L2TP-Win10/
 
-## TERIMA KASIH - 17/06/2021
+
+#### TERIMA KASIH - Edited 09/01/2021
